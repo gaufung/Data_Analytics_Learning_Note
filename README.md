@@ -9,7 +9,7 @@
 - 第1章 [numpy 库学习](numpy.ipynb)
 - 第2章 [pandas 库学习](pandas.ipynb)
 - 第3章 [pandas 数据读写](pandasIO.ipynb)
-- 第4章 [pandas 数据读写](pandasAdvance.ipynb)
+- 第4章 [pandas 数据分析](pandasAdvance.ipynb)
 - 第5章 [matplotlib 数据可视化](matplotlib.ipynb)
 - 第6章 [scikit-learn机器学习](scikit_learning.ipynb)
 - 第7章 [实例](digits.ipynb)
